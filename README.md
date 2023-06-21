@@ -1,2 +1,2 @@
 # Data_Analysis
-Repo for data related projects.
+Repo for data and machine learning related projects.
